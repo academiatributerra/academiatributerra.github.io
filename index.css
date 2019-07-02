@@ -1,3 +1,127 @@
+body{
+	margin:0px;
+	
+	background-image:url("https://raw.githubusercontent.com/LucasLomar/lucaslomar.github.io/Media/Background.png");
+	background-repeat:no-repeat;
+	background-position:center;
+	background-size:cover;
+}
+
+.all{
+	height:100%;
+	width:100%;
+}
+
+
+
+.cabecalho /*Propriedades do Cabeçalho da pagina*/
+{
+	margin-left:10%;
+	margin-right:10%;
+	
+	border-left-style:solid;
+	border-right-style:solid;
+	border-left-color:#000000;
+	border-right-color:#000000;
+}
+
+.cabecalho img{
+	position:relative;
+	height:100%;
+	width:100%;
+}
+
+/*===========================================================================================================*/
+
+.tabmenu{		/* BARRA DE NAVEGACAO*/
+	position:relative;
+	
+	padding-top:0%;
+	padding-right:5%;
+	padding-left:3%;
+	padding-bottom:0%;
+	
+	border-bottom-style:solid;
+	border-top-style:solid;
+	border-left-style:none;
+	border-right-style:none;
+	
+	border-bottom-color:black;
+	border-top-color:black;
+}
+
+.imgbotao{
+	padding-top:0%;
+	padding-bottom:0%;
+}
+
+
+/*====================================================================================================================*/
+
 .corpo{
-	background-color:white;
+	
+	margin-left:10%;
+	margin-right:10%;
+	
+	padding-bottom:10%;
+	background-color:gray;
+	
+	border-left-style:solid;
+	border-right-style:solid;
+	border-left-color:#000000;
+	border-right-color:#000000;
+	
+}
+
+.background{
+	background-image:url("https://raw.githubusercontent.com/LucasLomar/lucaslomar.github.io/Media/Background.png");
+	background-repeat:no-repeat;
+	background-position:center;
+	background-size:cover;
+	background-color:black;
+}
+
+.rodape{
+	background-color:black;
+	padding-top:50px;
+	margin-left:10%;
+	margin-right:10%;
+	
+	border-top-color:black;
+	border-top-style:solid;
+	
+	font-size:20px;
+	font-family:Impact;
+	color:white;
+	text-align:center;
+}
+
+/*========================================================================================================================================*/
+
+/* CONFIGURAÇÕES DOS ELEMENTOS DA PAGINA */
+
+.imgbotao img{
+	height:100%;
+	width:100%;
+}
+
+.tabDesc{
+	position:relative;
+	
+	padding-top:3%;
+	padding-right:5%;
+	padding-left:5%;
+	padding-bottom:0%;
+}
+
+.detalhes{
+	padding-left:0%;
+}
+
+
+/*CONFIGURACOES DAS FOTOS DA PAGINA*/
+
+.detalhes img{
+	height:100%;
+	width:100%;
 }

@@ -7,6 +7,10 @@ body{
 	background-size:cover;
 }
 
+table{
+	background-color:none;
+}
+
 .all{
 	height:100%;
 	width:100%;

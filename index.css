@@ -1,7 +1,7 @@
 body{
 	margin:0px;
 	
-	background-image:url("https://raw.githubusercontent.com/academiatributerra/academiatributerra.github.io/media/Fundo.png");
+	background-image:url("");
 	background-repeat:no-repeat;
 	background-position:center;
 	background-size:cover;
@@ -74,7 +74,7 @@ body{
 }
 
 .background{
-	background-image:url("https://raw.githubusercontent.com/academiatributerra/academiatributerra.github.io/media/Fundo.png");
+	background-image:url("");
 	background-repeat:no-repeat;
 	background-position:center;
 	background-size:cover;

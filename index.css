@@ -19,10 +19,9 @@ body{
 	margin-left:10%;
 	margin-right:10%;
 	
-	border-left-style:solid;
-	border-right-style:solid;
-	border-left-color:#000000;
-	border-right-color:#000000;
+	border-left-style:none;
+	border-right-style:none;
+	
 }
 
 .cabecalho img{
